@@ -241,7 +241,7 @@ i{
 }
 
 
-@media screen and (min-width:340px) and (max-width:400px) {
+@media screen and  (max-width:600px) {
     .header {
         display: flex;
         /* justify-content: space-around; */
@@ -421,7 +421,7 @@ i{
     .single-style div{    
         min-height: 350px;
         height: 350px;    
-        width: 100%;
+        width: 80%;
         margin: auto;
         margin-bottom: 1rem;
     }
